@@ -1,6 +1,9 @@
 # Godot2D_Dino
 A simple Godot 2D platformer
 
+<img width="1220" height="633" alt="image" src="https://github.com/user-attachments/assets/635982c7-2393-4597-90aa-6ff1a6f0e4d9" />
+
+
 following the Tutorial: [How to Make a Google Chrome T-Rex Style Sidescroller In Godot | Beginner Tutorial](https://www.youtube.com/watch?v=nKBhz6oJYsc)
 by [Coding With Russ](https://www.youtube.com/@CodingWithRuss). 
 
